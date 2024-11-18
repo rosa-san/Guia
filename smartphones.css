@@ -1,0 +1,13 @@
+@media screen and (min-width:480px) {
+    html{
+        font-size: 14px;
+
+    }
+    body{
+        background-color: #03A9F4 !important;
+        
+    }
+    div{
+        width: 95%;
+    }
+}
